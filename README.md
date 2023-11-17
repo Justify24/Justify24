@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justify24&label=Profile%20views&color=0e75b6&style=flat" alt="justify24" /> </p>
 
-- 🌱 I’m currently learning **Laravel, React, and Flutter**
+- 🌱 I’m currently learning **+_+**
 
 - ⚡ Fun fact **I am just human fr**
 
